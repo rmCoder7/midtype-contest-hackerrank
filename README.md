@@ -1,0 +1,1 @@
+# midtype-contest-hackerrank
